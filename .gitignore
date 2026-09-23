@@ -1,2 +1,9 @@
 ﻿*.exe
 
+li/Debug/
+li/ipch/
+*.sdf
+*.opensdf
+*.ilk
+*.pdb
+*.user
