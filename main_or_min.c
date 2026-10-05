@@ -15,5 +15,5 @@ int max(int x,int y)
     z=x;
     else
     z=y;
-    return z;
+    return z;//小丑
 }
