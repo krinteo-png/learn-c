@@ -1,0 +1,33 @@
+# ===== 编译产物 =====
+*.exe
+*.obj
+*.o
+*.out
+*.a
+*.lib
+
+# ===== Visual Studio 工程中间文件 =====
+Debug/
+Release/
+x64/
+*.sdf
+*.opensdf
+*.suo
+*.ilk
+*.pdb
+*.idb
+*.pch
+*.user
+*.aps
+*.log
+ipch/
+.vs/
+
+# ===== Git 内部对象备份（历史踩过的坑）=====
+objects_备份/
+objects_*/
+
+# ===== 编辑器/系统杂项 =====
+.vscode/
+Thumbs.db
+desktop.ini
