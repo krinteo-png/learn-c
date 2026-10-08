@@ -2,5 +2,5 @@
 int main()
 {
     printf("hello");
-    return 0;
+    return 0;// 测试自动同步
 }
